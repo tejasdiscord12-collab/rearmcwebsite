@@ -16,6 +16,16 @@ export default function StaffClient() {
       stats: { bans: 247, warns: 892, playtime: '1,240h' }
     },
     {
+      name: 'Lokesh',
+      role: 'Co-Owner',
+      bio: 'Co-Founder and Operations Manager of RearMC.',
+      skin: 'https://minotar.net/avatar/Lokesh/100',
+      color: '#9333ea',
+      discord: 'lokesh#0000',
+      joinDate: 'Jan 2024',
+      stats: { bans: 189, warns: 721, playtime: '1,150h' }
+    },
+    {
       name: 'Shios',
       role: 'Developer',
       bio: 'Backend systems and plugin development.',
